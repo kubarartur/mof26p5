@@ -1,3 +1,4 @@
+<blockquote>
  _______________________________________
 / Ćwiczenie labolatorynje numer 5       \
 | przedmiot: Metody Obliczeniowe Fizyki |
@@ -8,3 +9,4 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
+</blockquote>
