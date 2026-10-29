@@ -1,5 +1,5 @@
-<blockquote>
- _______________________________________
+ ```
+ _______________________________________ 
 / Ćwiczenie labolatorynje numer 5       \
 | przedmiot: Metody Obliczeniowe Fizyki |
 \ autor: Artur Kubara                   /
@@ -9,4 +9,4 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
-</blockquote>
+ ```
